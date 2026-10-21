@@ -1,0 +1,6 @@
+{
+  "name": "Milan Keramik - Absensi & Shift Pabrik",
+  "description": "Aplikasi Absensi Karyawan Milan Keramik dengan Geofencing GPS, Face Recognition, Shift Roster Pabrik, dan Analitik Kehadiran Admin.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
